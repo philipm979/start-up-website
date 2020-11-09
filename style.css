@@ -1,0 +1,58 @@
+body,
+
+html {
+  width: 100%;
+  height: 100%;
+  font-family: Nunito Sans, sans-serif;
+  background: url(header.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+	font-size: 3rem;
+	color: #d0c6c6;
+	font-weight: bold;
+	text-transform: uppercase
+}
+
+
+hr {
+	border-color: blue;
+	border-width: 3px;
+	max-width: 60px
+}
+
+.buffer {
+	height: 10rem;
+}
+
+.btn {
+	font-weight: bold;
+	color: #d0c6c6;
+	text-transform: uppercase;
+	
+
+}
+
+.btn-primary {
+	background-color: blue;
+	border-color: #d0c6c6
+}
+
+.btn-xl {
+	padding: 1rem 1rem;
+}
+	
+
+.btn-primary:hover {
+	background-color: #79484829;
+	border-color: #d0c6c6;
+	border-width: 3px
+}
+
+
+
+
